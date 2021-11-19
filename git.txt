@@ -1,2 +1,2 @@
 git
-yes
+yes or no
