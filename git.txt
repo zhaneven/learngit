@@ -1,3 +1,4 @@
 git
 yes or no
 create a branch
+switch to master
