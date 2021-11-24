@@ -5,3 +5,4 @@ switch to master
 create dev branch
 
 create dev branch --no-ff
+fixed a bug
