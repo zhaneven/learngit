@@ -3,3 +3,5 @@ yes or no
 create a branch
 switch to master
 create dev branch
+
+create dev branch --no-ff
